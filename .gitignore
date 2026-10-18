@@ -1,0 +1,6 @@
+.venv/
+datasets/
+runs/
+__pycache__/
+.env
+yolov8n.pt
